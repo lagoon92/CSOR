@@ -1,0 +1,371 @@
+10.142.2	005	Katowice 1 Stawowa
+10.142.3	008	Czêstochowa 1
+10.142.4	010	Kraków 01
+10.142.6	012	Gdañsk 02 Dworzec
+10.142.7	014	Zakopane 1
+10.142.8	015	Zabrze 1
+10.142.9	016	Toruñ 1
+10.142.10	017	Czêstochowa 2
+10.142.11	018	Poznañ 01
+10.142.12	020	W-Wa 04 Przejœcie
+10.142.13	021	Gliwice 1
+10.142.14	022	Gdañsk 03 Oliwa
+10.142.15	024	Olsztyn 1
+10.142.16	027	W-Wa 07 Dolinka
+10.142.18	031	Radom 1
+10.142.19	032	W-Wa 06 Janki
+10.142.22	036	Kraków 02 Rondo Mateczny
+10.142.23	037	Szczecin 1 Centrum
+10.142.24	038	Bytom 1
+10.142.25	040	W-Wa 08 Ostrobramska
+10.142.26	041	Szczecin 4 Struga
+10.142.27	042	Bydgoszcz 2 Torpedo
+10.142.28	043	Sosnowiec 1
+10.142.29	044	Poznañ 03 Hetmañska
+10.142.30	046	Gdynia 1
+10.142.31	049	W-Wa 11 Pelikanów
+10.142.32	050	Bydgoszcz 3 Wyzyny
+10.142.33	051	Poznañ 04 Franowo
+10.142.35	053	Sosnowiec 2
+10.142.36	054	D¹browa Górnicza 1
+10.142.38	056	Wroc³aw 02 Karkonoska
+10.142.39	058	W-Wa 17 Wilanów
+10.142.40	059	W-Wa 09 Po³czyñska
+10.142.41	060	£ódŸ 02 Bazar
+10.142.42	064	Poznañ 05 Or³a Bia³ego
+10.142.43	066	Gdynia 2 Gielda
+10.142.44	068	Gorzów Wlkp 1
+10.142.45	069	Szczecin 3 Lubieszyn
+10.142.46	070	£ódŸ 04 Lodka
+10.142.47	071	£ódŸ 03 Piotrkowska
+10.142.48	072	Rzeszów 1
+10.142.49	073	Bia³ystok 1
+10.142.50	074	Poznañ 06 Serbska
+10.142.51	075	£ódŸ 05 Park
+10.142.52	077	W-Wa 13 Pruszków
+10.142.53	078	Poznañ 07 Swarzedz
+10.142.54	080	Kraków 03 Opolska
+10.142.55	082	W-Wa 12 Radzyminska
+10.142.56	083	Opole 1
+10.142.57	084	Zielona Góra 1
+10.142.58	085	W-Wa 16 Bemowo
+10.142.59	086	Wroc³aw 03 Krakowska
+10.142.60	087	Wroc³aw 04 Bielany
+10.142.61	089	Kraków 04 Fala
+10.142.62	090	Gorzów Wlkp 2 Centrum
+10.142.63	091	Koszalin 1
+10.142.64	092	S³upsk
+10.142.65	093	Rybnik 1 Rynek
+10.142.66	094	Legnica
+10.142.67	095	Gdañsk 04 Ow
+10.142.68	096	Czêstochowa 3
+10.142.69	097	£ódŸ 06 Batory
+10.142.70	098	W-Wa 14 Modliñska
+10.142.71	099	Lubin 1
+10.142.72	100	Leszno 1
+10.142.73	101	Lublin 3 Centrum
+10.142.74	103	Wroc³aw 05 Targi
+10.142.75	105	Radom 2 Ustronie
+10.142.76	106	W-Wa 15 Jubilerska
+10.142.77	107	Sopot
+10.142.78	111	Pszczyna
+10.142.79	114	Tarnowskie Góry
+10.142.80	115	Kraków 05 Pilotów
+10.142.81	116	Lublin 1
+10.142.82	119	Zgorzelec
+10.142.83	120	Rybnik 2
+10.142.84	122	Poznañ 08 Baranowo
+10.142.85	123	Kutno
+10.142.86	124	Gliwice 2 Obrum
+10.142.87	125	Wroc³aw 06 Serek
+10.142.88	126	Kraków 06 Wielicka
+10.142.89	127	W-Wa 18 Ursynów
+10.142.90	128	Kalisz
+10.142.91	129	Bytom 2 Karb
+10.142.92	130	W-Wa 19 M³yn
+10.142.93	131	W-Wa 25 Bazar
+10.142.94	132	¯ory
+10.142.95	133	Szczecin 5 Po³udniowa
+10.142.96	134	Kostrzyn
+10.142.97	135	Elbl¹g 1
+10.142.98	136	£om¿a
+10.142.99	137	Kielce 1
+10.142.100	138	£ódŸ 09 Retkinia
+10.142.101	139	W-Wa 20 Stara Mi³osna
+10.142.102	140	Miko³ów
+10.142.103	141	Wroc³aw 07 Rynek
+10.142.104	142	Gdynia 3 Spó³dzielnia
+10.142.105	143	CzeladŸ 1
+10.142.106	144	W-Wa 23 Legionowo
+10.142.107	146	Ostróda
+10.142.108	147	W-Wa 22 Pu³kowa
+10.142.109	149	Bielsko 2 Batory
+10.142.110	150	£ódŸ 10 Fabryka
+10.142.111	152	Pniewy
+10.142.112	153	Kielce 2 Sienkiewicza
+10.142.113	155	Poznañ 10 Kino
+10.142.114	156	Zgierz
+10.142.115	158	Chorzów 2 Katowicka
+10.142.116	159	Ruda Œl¹ska
+10.142.117	160	Radom 4 Czarnieckiego
+10.142.118	162	Poznañ 09 Obornicka
+10.142.119	163	Katowice 2 Rozdzieñskiego
+10.142.120	164	W-Wa 21 G³êbocka
+10.142.121	165	CzeladŸ 2
+10.142.122	166	Gubin
+10.142.123	167	Racibórz
+10.142.124	168	Tarnów 2
+10.142.125	169	Katowice 3 Aral
+10.142.127	172	Piotrków Trybunalski 1
+10.142.128	174	Rzgów
+10.142.129	175	Gdañsk 05 Mall
+10.142.130	177	Radom 3 Mall
+10.142.131	178	Rumia Grunwaldzka
+10.142.132	179	Kielce 3
+10.142.133	180	Lublin 2 Tysi¹clecia
+10.142.134	182	Wroc³aw 08 D³ugo³êka
+10.142.135	183	Bia³ystok 2
+10.142.136	184	Wroc³aw 10 Ksiêcia Witolda
+10.142.137	185	Wroc³aw 09 Bardzka
+10.142.138	186	Wa³brzych
+10.142.139	187	W-Wa 27 Reduta
+10.142.140	188	P³ock 1
+10.142.141	189	Zakopane 2
+10.142.142	190	¯yrardów
+10.142.143	192	Czêstochowa 4 Mall
+10.142.144	193	Jastrzêbie
+10.142.145	194	Suwa³ki 1 Boisko
+10.142.146	195	Zabrze 2
+10.142.147	196	Bydgoszcz 4 Mall
+10.142.148	197	£ódŸ 11 Mall
+10.142.149	198	Opole 2
+10.142.150	200	Kraków 07 Szewska
+10.142.151	201	Rzeszów 2
+10.142.152	202	Nowy S¹cz
+10.142.153	203	Gdañsk 06 Staw
+10.142.154	204	Konin 1
+10.142.155	205	Tychy 2
+10.142.156	206	Bielsko 1 Bazar
+10.142.157	207	Jasienica
+10.142.158	208	W³oc³awek
+10.142.159	209	Tychy 1
+10.142.160	210	Wroc³aw 11 Korona
+10.142.161	211	W-wa 29 Lazurowa
+10.142.162	212	Gdañsk 07 Morena
+10.142.163	213	Œwidnica
+10.142.164	214	Toruñ 2
+10.142.165	217	W-Wa 28 Galeria
+10.142.166	218	Kraków 09 Bora
+10.142.167	219	Inowroc³aw
+10.142.168	221	Be³chatów
+10.142.169	222	P³ock 2
+10.142.170	223	Piotrków Trybunalski 2
+10.142.171	224	Dêbica
+10.142.172	225	W-wa 31 Conrada
+10.142.173	226	G³ogów
+10.142.174	227	W-wa 30 Sadyba
+10.142.175	228	Kêpno
+10.142.176	229	Chojnice
+10.142.177	230	Katowice 4
+10.142.178	231	W-wa 32 S³u¿ewiec
+10.142.179	233	Krosno
+10.142.180	234	Olkusz
+10.142.181	235	Wodzis³aw Œl¹ski
+10.142.182	237	Toruñ 3
+10.142.183	238	Wroc³aw 12 Ece
+10.142.184	239	W-Wa 35 Dzika
+10.142.185	240	Tczew
+10.142.186	241	Tomaszów Mazowiecki
+10.142.187	242	Kraków 08 Metro
+10.142.188	243	Grudzi¹dz
+10.142.189	244	Kraków 10 Plaza
+10.142.190	245	Poznañ 11 Komorniki
+10.142.191	247	W-Wa 33 Galeria 2
+10.142.192	248	W-Wa 34 Park Wola
+10.142.194	250	£ódŸ 12 Galeria
+10.142.195	251	Olsztyn 2
+10.142.196	254	Szczecin 6 Galaxy
+10.142.225	255	Jarocin
+10.142.199	258	Pi³a
+10.142.200	259	Jelenia Góra 2
+10.142.201	260	W-Wa 37 Arkadia
+10.142.202	261	Katowice 5 Silesia
+10.142.203	262	Kraków 11 ECE PKP
+10.142.204	263	Kraków 12 ECE Mall
+10.142.205	264	£ódŸ 13 Manufaktura
+10.142.206	265	Wroc³aw 14 Pasa¿
+10.142.207	266	Kraków 13 Mogilany
+10.142.208	267	W-wa 38 Solidarnoœci
+10.142.209	268	Gdañsk 08 Galeria Ba³tycka
+10.142.210	269	Wroc³aw 15 Magnolia Park
+10.142.211	270	Goleniów
+10.142.212	271	Siedlce
+10.142.213	272	Malbork
+10.142.214	273	Opole 3 Karolinka
+10.142.215	274	Gniezno
+10.142.226	275	B³onie
+10.142.216	277	Bydgoszcz 5 Galeria Pomorska
+10.142.217	278	D¹browa Górnicza 2
+10.142.218	279	Koszalin 2 Forum
+10.142.219	280	W-wa 39 G³êbocka 2
+10.142.220	281	W-wa 40 CH Wileñska
+10.142.221	282	Zielona Góra 2 Focus
+10.142.227	283	W-wa 43 Al. Jerozolimskie
+10.142.228	284	Wroc³aw 16 Muchobór
+10.142.222	285	Poznañ 12 Malta
+10.142.223	286	Zabrze 3
+10.142.229	287	Jaworzno
+10.142.230	288	MOP Police A2 N
+10.142.231	289	MOP £êka A2 S
+10.142.241	290	MOP Oleœnica  A4 N
+10.142.242	291	MOP Witowice A4 S
+10.142.232	292	MOP Koz³ów A4 N
+10.142.233	293	MOP Rachowice A4S
+10.142.234	294	Zamoœæ
+10.142.224	295	Lubin 2 Cuprum Arena
+10.142.235	296	Czêstochowa 5 Galeria Jurajska
+10.142.236	297	Brodnica
+10.142.237	298	Konin 2 Ferio
+10.142.249	299	Puck
+10.142.238	300	W-wa 41 Z³ote Tarasy
+10.142.247	301	Polkowice
+10.142.254	302	Kêdzierzyn - KoŸle
+10.142.239	303	Kraków 14 Bonarka
+10.142.246	304	Ostrowiec Œwiêtokrzyski
+10.142.240	305	Bielsko 3 Sfera
+10.142.245	306	Miñsk Mazowiecki
+10.142.252	307	Ostrów Wielkopolski
+10.142.244	308	Grodzisk Mazowiecki
+10.142.243	309	W-wa 42 CH Janki
+10.134.200	310	Che³m
+10.142.250	311	Nowy Dwór Gdañski
+10.142.251	312	Czêstochowa 6 Okulickiego
+10.142.248	313	Brzesko
+10.134.128	314	Lublin 4 Olimp
+10.134.137	315	MOP Worów Grójec W-S7
+10.134.135	316	Kielce 4 Echo
+10.142.253	317	Katowice 6 U³añska
+10.134.136	318	Nadarzyn Maximus
+10.134.163	319	Kraków 15 Czy¿yny
+10.142.198	320	K³odzko 
+10.134.129	321	W-wa 44 Trasa Toruñska
+10.142.255	323	Bia³a Podlaska
+10.134.146	324	Zduñska Wola
+10.134.130	326	Wroc³aw 17 ¯migrodzka
+10.134.133	327	Sanok
+10.134.149	328	Mielec
+10.134.153	329	Pu³awy
+10.134.131	330	MOP Okmiany
+10.134.141	331	Nowy Targ
+10.134.174	332	Poznañ 14 Rzeczna
+10.134.138	333	MOP Wymys³ów
+10.134.134	334	Tarnobrzeg
+10.134.237	336	Nysa
+10.134.142	339	Koszalin 3 Monte Cassino
+10.134.169	340	MOP Ma³opole
+10.134.140	341	Rzeszów 4 Frac
+10.134.139	342	Lubliniec
+10.134.143	343	Garwolin 
+10.134.132	344	Leszno 2 Mall
+10.134.145	346	Szczecin 7 ECE Kaskada
+10.134.166	347	Szczecin 8 Przyjació³ ¯o³nierza
+10.134.164	348	P³oñsk
+10.134.154	350	MOP Wysoka
+10.134.151	351	MOP Sitno E-S3
+10.134.147	352	MOP £ozienica Goleniów
+10.134.165	353	Koby³ka
+10.134.150	354	Ostro³êka
+10.134.175	355	Rzeszów City Center
+10.134.160	356	Ko³obrzeg
+10.134.148	357	Rzeszów 3 Millenium Hall
+10.134.152	358	Toruñ 4 Plaza
+10.134.161	360	Poznañ 13 Grunwaldzka
+10.134.144	361	Gliwice 3 Forum
+10.134.156	363	Sosnowiec 3 Plaza
+10.142.197	365	¯ywiec
+10.134.170	366	Szczecin Ster
+10.134.159	367	Wroc³aw 18 Skytower
+10.134.190	368	O³awa
+10.134.157	369	MOP Chociszewo
+10.134.185	370	Gdañsk 10 Œwiêtokrzyska
+10.134.158	371	MOP Rogoziniec
+10.134.167	372	MOP Malankowo Zachód
+10.134.168	373	MOP Malankowo Wschód
+10.134.201	374	W-wa Wa³ Miedzeszyñski
+10.134.188	376	Nowy S¹cz 2 Trzy Korony
+10.134.186	377	Pabianice
+10.134.171	378	Gdañsk MPH
+10.134.183	379	Nieporêt 
+10.134.162	381	Kielce 5 Korona
+10.134.178	382	Skierniewice
+10.134.199	383	Bia³ystok
+10.134.176	385	Gliwice Helical Drive
+10.134.179	386	Sochaczew
+10.134.177	387	Gliwice Helical Mall
+10.134.172	388	Wroc³aw Borek
+10.134.197	389	MOP S7 SUCHEDNIÓW (W) LOTOS
+10.134.227	391	Katowice Rolna
+10.134.204	392	MOP Józefów
+10.134.173	393	Katowice 7 PKP
+10.134.194	394	Wrzeœnia
+10.134.209	395	Siedlce Galeria S
+10.134.242	398	Gdañsk 11 Lotos
+10.134.189	399	Jawornik
+10.134.180	401	INOWROC£AW Galeria Solna
+10.134.182	402	MOP Sople
+10.134.241	403	Bia³ystok 4 Galeria Jurowiecka
+10.134.224	404	Kolbuszowa
+10.134.181	405	Cedynia
+10.134.193	406	Przemyœl
+10.134.187	407	Katowice 8 PKP Galeria
+10.134.225	408	Sierpc
+10.134.184	409	CH Auchan £omianki
+10.134.206	410	Œwinoujœcie
+10.134.205	411	MOP S17 MARKUSZÓW (N) BP
+10.134.196	412	MOP S17 MARKUSZÓW (S) BP
+10.134.210	413	MOP K³aj
+10.134.211	414	MOP Stanis³awice A4
+10.134.191	415	Poznañ 15 City Center PKP
+10.134.195	416	Poznañ 16 City Center Galeria
+10.134.212	418	Kalisz 2 Echo CH Amber
+10.134.218	419	MOP Brwinów A2 N
+10.134.222	420	MOP Brwinów A2 S
+10.134.192	422	Gdynia Wzgórze Riviera
+10.134.198	424	Kórnik
+10.134.207	425	Poznañ 17 Marcelin
+10.134.255	426	W-wa 51 Radoœæ
+10.134.203	427	W-wa 46 Dworzec Centralny
+10.134.202	428	Szczecinek
+10.134.213	429	MOP Parma A2 N
+10.134.214	430	MOP Polesie A2 S
+10.134.221	432	Konstancin
+10.134.208	433	Kraków 16 Galeria Bronowice
+10.142.1	434	£ódŸ 14 Sukcesja
+10.134.217	436	Gdynia 5 Dworzec PKP
+10.134.220	439	Oœwiêcim
+10.134.226	440	S³ubice
+10.134.235	441	Cieszyn
+10.134.239	442	Poznañ 18 Pó³wiejska (McOpCo)
+10.134.229	444	W-wa 49 Œwiêtokrzyska
+10.134.240	445	Stalowa Wola
+10.134.216	446	W-wa 48 Blue City
+10.134.230	447	Radom 05 CH Galeria S³oneczna
+10.134.238	449	Elbl¹g II CH Ogrody
+10.134.223	451	Olsztyn 3 Galeria Warmiñska
+10.134.231	453	Pruszcz Gdañski
+10.134.236	456	Lublin Tarasy Zamkowe
+10.134.228	457	Wroc³aw Dworzec PKP 2
+10.134.232	458	AIRPORT - LANDSIDE
+10.142.17	459	Poznañ 19 Stary Browar (Lic.)
+10.142.37	461	Luboñ
+10.134.233	462	AIRPORT - AIRSIDE
+10.134.127	464	Warszawa 01 Centrum
+10.142.193	465	Jaworzno CH Galena
+10.134.250	466	W-wa 51 Zachodnia
+10.134.51	469	Bydgosz 06 ECE
+10.134.53	472	Toruñ 05 Copernicus
+10.134.54	474	Kraków 17 Galeria Kazimierz
+10.134.55	476	Bydgoszcz 07 Focus
+10.134.215	7262	McCafe Kraków ECE PKP IS
+10.134.219	7264	McCafe £ódŸ Manufaktura
+10.134.234	7458	MCCAFE AIRPORT – LANDSIDE
